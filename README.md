@@ -30,8 +30,8 @@ A Docker environment has been provided for your convenience.
 1. Make sure you have Docker and Docker Compose installed on your system
 2. Clone this repository
 3. Navigate to the repository directory
-4. Run `docker-compose up -d`
-5. Run `docker-compose exec php composer install`
+4. Run `docker compose up -d`
+5. Run `docker compose exec php composer install`
 6. Access the API at http://localhost:8080/api/doc
 
 ## Submission:
